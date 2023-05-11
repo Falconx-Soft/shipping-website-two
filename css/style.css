@@ -1857,7 +1857,11 @@ pre code {
     border: 0;
   }
 }
-
+ul {
+  --icon-space: 1.3em;
+  list-style: none;
+  padding: 0;
+}
 .table-responsive {
   display: block;
   width: 100%;
